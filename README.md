@@ -2,7 +2,12 @@
 
 I created this basic script to use it in an CLI
 
-## You'll only need requests:
+## Features
+
+1. Get public IP address
+1. Get ifconfig's local IP address
+
+## You'll only need the requests module:
 
 `pip3 install requests`
 
